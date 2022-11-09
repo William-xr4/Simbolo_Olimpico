@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+#meu_canvas{
+    background-image:url("pintura.jpg");
+    background-position:center;
+    background-size:cover;
+    border:8px double rgb(0, 110, 255);
+}
